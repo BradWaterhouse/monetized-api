@@ -1,0 +1,11 @@
+{
+  "name": "monitized-api",
+  "version": "1.0.0",
+  "description": "A simple Node API with Stripe integration - proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brad waterhouse",
+  "license": "ISC"
+}
